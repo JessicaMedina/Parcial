@@ -25,12 +25,7 @@
   </head>
   <body background="">
 
-    <!--
-      Las clases que utilizo en los divs son propias de Bootstrap
-      si no tienes conocimiento de este framework puedes consultar la documentacion en
-      https://v4-alpha.getbootstrap.com/getting-started/introduction/
-    -->
-
+    
 
     <!-- Formulario Login -->
     <div class="container">
